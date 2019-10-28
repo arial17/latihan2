@@ -1,1 +1,3 @@
-#Latihan2
+# latihan2
+
+## Cara penggunaan git
